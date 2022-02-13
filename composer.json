@@ -1,0 +1,10 @@
+{
+    "name": "modernoop/pph21",
+    "description": "PPH21",
+    "require": {
+        "php": ">=8.1.0"
+    },
+    "autoload": {
+        "psr-4": {"PPH21\\": "src/"}
+    }
+}
